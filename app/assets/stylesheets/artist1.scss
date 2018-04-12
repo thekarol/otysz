@@ -1,4 +1,5 @@
 /*
+"MCF funera" => "MCF funera"
 Template Name: Meghna Responsive HTML5/CSS3 Business Template
 Author: Themefisher
 Author URI: www.Themefisher.com
@@ -10,6 +11,13 @@ Tags: one-page, single-page, portfolio, custom-colors, post-formats, responsive,
 @import url("https://fonts.googleapis.com/css?family=Anaheim|Quattrocento+Sans:400,700");
 @import url("https://fonts.googleapis.com/css?family=Montserrat:400,700|Open+Sans:300,400,600");
 
+.wow{
+  .content{
+    h3{
+      font-size: 60px;
+    }
+  }
+}
 
 html {
   background-color: #0d0d0d;
@@ -24,13 +32,15 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-weight: 400;
-  font-family: "Quattrocento Sans", sans-serif;
+  font-size: 700%;
+  font-weight: 100;
+  font-family: "MCF funera";
   color: #afbac4;
 }
 
 p {
-  font-family: "Quattrocento Sans", sans-serif;
+  font-family: "vampiress";
+  font-size: 300%;
 }
 
 /*=================================================================
@@ -424,8 +434,7 @@ a:focus, a:hover {
 
 .title h2 {
   text-transform: capitalize;
-  font-weight: 700;
-  font-size: 38px;
+  font-weight: 100;
   color: #fff;
 }
 
@@ -469,8 +478,8 @@ a:focus, a:hover {
 
 .header-bradcrumb a, .header-bradcrumb .active {
   color: #cfcfcf;
-  font-weight: 200;
-  font-family: "Quattrocento Sans", sans-serif;
+  font-weight: 100;
+  font-family: "MCF funera";
 }
 
 .header-bradcrumb a:hover {
@@ -643,10 +652,9 @@ a:focus, a:hover {
 }
 
 .hero-area .block h1 {
-  font-size: 90px;
   color: #fff;
   text-transform: capitalize;
-  font-weight: 700;
+  font-weight: 100;
   margin-bottom: 20px;
 }
 
@@ -669,7 +677,7 @@ a:focus, a:hover {
   padding: 14px 50px;
   font-size: 18px;
   font-size: 16px;
-  font-weight: bold;
+  font-weight: 100;
   letter-spacing: 1px;
 }
 
@@ -816,7 +824,7 @@ a:focus, a:hover {
 
 .about-2 .content-block .media h4 {
   font-size: 16px;
-  font-weight: 600;
+  font-weight: 100;
 }
 
 /*=================================================================
@@ -827,14 +835,14 @@ a:focus, a:hover {
 }
 
 .call-to-action h2 {
-  font-weight: 700;
+  font-weight: 100;
   color: black;
 }
 
 .call-to-action p {
   font-size: 18px;
   color: rgb(32,32,32);
-  font-weight: 600;
+  font-weight: 100;
 }
 
 .call-to-action .btn-main {
@@ -958,7 +966,7 @@ a:focus, a:hover {
 
 .counters-item span {
   display: block;
-  font-weight: bold;
+  font-weight: 100;
   font-size: 35px;
   line-height: 50px;
 }
@@ -1094,7 +1102,7 @@ a:focus, a:hover {
 }
 
 .portfolio-block .caption h4 {
-  font-size: 16px;
+  font-size: 36px;
   font-weight: 600;
 }
 
@@ -1113,7 +1121,7 @@ a:focus, a:hover {
   height: 50px;
   color: black;
   display: inline-block;
-  font-size: 20px;
+  font-size: 40px;
   border-radius: 30px;
 }
 
@@ -1134,7 +1142,7 @@ a:focus, a:hover {
 
 .service-block .service-icon {
   margin-bottom: 10px;
-  font-size: 50px;
+  font-size: 70px;
 }
 
 /*=================================================================
@@ -1158,7 +1166,7 @@ a:focus, a:hover {
 }
 
 .service-2 .service-item i {
-  font-size: 30px;
+  font-size: 50px;
   display: inline-block;
   background: #CC7722 none repeat scroll 0 0;
   border-radius: 30px;
@@ -1175,13 +1183,13 @@ a:focus, a:hover {
   Our skills
 ==================================================================*/
 .skill-bar p {
-  font-size: 18px;
+  font-size: 38px;
   margin-bottom: 0;
 }
 
 .skill-bar p span {
   font-style: italic;
-  font-size: 30px;
+  font-size: 50px;
   color: rgba(187, 187, 187, 0.34);
   display: inline-block;
   vertical-align: middle;
@@ -1263,7 +1271,7 @@ a:focus, a:hover {
   border: 1px solid #fff;
   color: #fff;
   display: block;
-  font-size: 20px;
+  font-size: 40px;
   height: 35px;
   line-height: 35px;
   text-align: center;
@@ -1285,7 +1293,7 @@ a:focus, a:hover {
 }
 
 .member-meta span {
-  font-size: 12px;
+  font-size: 32px;
 }
 
 /*=================================================================
@@ -1308,7 +1316,7 @@ a:focus, a:hover {
 
 .client-comment p {
   color: #afbac4;
-  font-size: 18px;
+  font-size: 38px;
 }
 
 .client-thumb img {
@@ -1327,7 +1335,7 @@ a:focus, a:hover {
 }
 
 .client-meta span {
-  font-size: 12px;
+  font-size: 32px;
 }
 
 .owl-pagination,
@@ -1409,7 +1417,7 @@ a:focus, a:hover {
 
 .post-block .content h3 {
   margin: 0 0 6px;
-  font-size: 20px;
+  font-size: 40px;
   line-height: 1.5;
   text-transform: capitalize;
 }
@@ -1419,7 +1427,7 @@ a:focus, a:hover {
 }
 
 .note .excerpt h3 {
-  font-size: 20px;
+  font-size: 40px;
   line-height: 1.5;
   text-transform: capitalize;
 }
@@ -1441,7 +1449,7 @@ a:focus, a:hover {
 }
 
 .post-meta {
-  font-size: 13px;
+  font-size: 33px;
   margin: 20px 0 0;
   padding: 0 20px 10px;
 }
@@ -1454,7 +1462,7 @@ a:focus, a:hover {
   color: #666;
   border-right: 1px solid #dedede;
   display: inline-block;
-  font-size: 13px;
+  font-size: 33px;
   margin: 10px 10px 0 0;
   padding-right: 10px;
 }
@@ -1479,7 +1487,7 @@ a:focus, a:hover {
 .post-excerpt blockquote {
   line-height: 22px;
   margin: 20px 0;
-  font-size: 16px;
+  font-size: 36px;
 }
 
 .single-blog {
@@ -1489,7 +1497,7 @@ a:focus, a:hover {
 }
 
 .blog-subtitle {
-  font-size: 15px;
+  font-size: 35px;
   padding-bottom: 10px;
   border-bottom: 1px solid #dedede;
   margin-bottom: 25px;
