@@ -177,20 +177,54 @@ This JavaScript function will return -1 if no occurrence have been found.*/
             /* using the jquery's post(ajax) function and a lifesaver
   function serialize() which gets all the data from the form
   we submit it to send_email.php */
-            $.post("sendmail.php", $("#contact-form").serialize(), function (result) {
-                //and after the ajax request ends we check the text returned
-                if (result == 'sent') {
-                    //if the mail is sent remove the submit paragraph
-                    $('#cf-submit').remove();
-                    //and show the mail success div with fadeIn
-                    $('#mail-success').fadeIn(500);
-                } else {
+
+            $.ajax({
+                url: "/send_email",
+                type: "post",
+                data: {
+                    name: name,
+                    email: email,
+                    subject: subject,
+                    message: message
+                },
+                success: function(result){
+                    if (result.status == 'sent') {
+                        //if the mail is sent remove the submit paragraph
+                        $('#cf-submit').remove();
+                        //and show the mail success div with fadeIn
+                        $('#mail-success').fadeIn(500);
+                    } else {
+                        //show the mail failed div
+                        $('#mail-fail').fadeIn(500);
+                        //re enable the submit button by removing attribute disabled and change the text back to Send The Message
+                        $('#contact-submit').removeAttr('disabled').attr('value', 'Send The Message');
+                    }
+                },
+                error:function(){
                     //show the mail failed div
                     $('#mail-fail').fadeIn(500);
                     //re enable the submit button by removing attribute disabled and change the text back to Send The Message
                     $('#contact-submit').removeAttr('disabled').attr('value', 'Send The Message');
                 }
             });
+
+
+
+
+            // $.post("sendmail.php", $("#contact-form").serialize(), function (result) {
+            //     //and after the ajax request ends we check the text returned
+            //     if (result == 'sent') {
+            //         //if the mail is sent remove the submit paragraph
+            //         $('#cf-submit').remove();
+            //         //and show the mail success div with fadeIn
+            //         $('#mail-success').fadeIn(500);
+            //     } else {
+            //         //show the mail failed div
+            //         $('#mail-fail').fadeIn(500);
+            //         //re enable the submit button by removing attribute disabled and change the text back to Send The Message
+            //         $('#contact-submit').removeAttr('disabled').attr('value', 'Send The Message');
+            //     }
+            // });
         }
     });
 
