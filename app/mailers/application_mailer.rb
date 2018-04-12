@@ -7,7 +7,7 @@ class ApplicationMailer < ActionMailer::Base
     @message = message
     @name = name
 
-    mail(to: 'thekkarol@gmail.com', subject: subject)
+    mail(to: 'otyszecki.kontakt@gmail.com', subject: subject)
 
   end
 end
