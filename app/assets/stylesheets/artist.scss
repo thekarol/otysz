@@ -18,16 +18,38 @@ html {
 
 body {
   background-color: #0d0d0d;
-  font-family: "Anaheim", sans-serif;
+  font-family: "Montserrat", sans-serif;
   color: #737f8a;
   -webkit-font-smoothing: antialiased;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-weight: 400;
-  font-family: "Quattrocento Sans", sans-serif;
   color: #afbac4;
 }
+
+ h3, h4, h5, h6 {
+  font-weight: 400;
+  font-family: "Montserrat", sans-serif;
+}
+
+.hero-area {
+  h1 {
+    font-weight: 100 !important;
+    font-size: 2000% !important;
+    font-family: "MCF funera";
+  }
+}
+
+//MCF funera
+
+.title {
+  h2 {
+    font-weight: 100 !important;
+    font-size: 700% !important;
+    font-family: "MCF funera";
+  }
+}
+
 
 p {
   font-family: "Quattrocento Sans", sans-serif;
@@ -659,7 +681,6 @@ a:focus, a:hover {
 .hero-area .block p {
   color: #fff;
   font-size: 20px;
-  width: 70%;
   margin: 0 auto;
 }
 
@@ -1032,7 +1053,7 @@ a:focus, a:hover {
   display: inline-block;
   font-size: 16px;
   padding: 6px 20px;
-  font-weight: 700;
+  font-weight: 100;
   color: #737f8a;
   transition: .3s all;
 }
