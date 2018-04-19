@@ -9,4 +9,8 @@
 #= require count-to/jquery.countTo.js
 #= require wow/dist/wow.min.js
 
+#= require moment
+#= require moment/pl
+#= require bootstrap-datetimepicker
+
 #= require artist

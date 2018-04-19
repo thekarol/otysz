@@ -117,14 +117,22 @@ a:focus, a:hover {
   color: #ddd;
 }
 
-.btn-transparent {
+.appointment-mail-success{
+  text-align: center;
+}
+
+input:-webkit-autofill, textarea:-webkit-autofill, select:-webkit-autofill {
+  background:transparent !important;
+}
+
+.btn-transparent, .appointment {
   border: 1px solid #4e595f;
 }
 
-.btn-transparent:hover, .btn-transparent:focus {
+.btn-transparent:hover, .btn-transparent:focus, .appointment:hover, .appointment:focus {
   background-color: #CC7722;
   border: 1px solid transparent;
-  color: #fff;
+  color: white;
 }
 
 .form-control {
@@ -337,7 +345,7 @@ a:focus, a:hover {
 }
 
 #preloader {
-  background: #fff;
+  background-image: url("backgrounds/bg-3.jpg");
   height: 100%;
   left: 0;
   opacity: 1;
@@ -684,7 +692,7 @@ a:focus, a:hover {
   margin: 0 auto;
 }
 
-.hero-area .block .btn-transparent {
+.hero-area .block .btn-transparent{
   margin-top: 40px;
   border-color: #fff;
   padding: 14px 50px;
@@ -692,6 +700,17 @@ a:focus, a:hover {
   font-size: 16px;
   font-weight: bold;
   letter-spacing: 1px;
+}
+
+.appointment{
+  border-color: #fff;
+  padding: 10px 100px;
+  font-size: 16px;
+}
+
+#appointment-submit{
+  margin-top: 50px;
+  float: right;
 }
 
 .hero-area-video {
@@ -889,7 +908,7 @@ a:focus, a:hover {
 }
 
 .contact-form {
-  margin-bottom: 60px;
+  margin-bottom: 15px;
 }
 
 .contact-form .form-control {
@@ -903,13 +922,14 @@ a:focus, a:hover {
   height: 120px;
 }
 
+
 .contact-form input:hover,
 .contact-form textarea:hover,
-#contact-submit:hover {
+#contact-submit:hover{
   border-color: #CC7722;
 }
 
-#contact-submit {
+#contact-submit{
   border: 1px solid rgba(236, 239, 241, 0.07);
   background: #CC7722;
   padding: 12px 0;
@@ -948,12 +968,14 @@ a:focus, a:hover {
 }
 
 .success {
-  background-color: #6cb670;
-  border-radius: 4px;
-  color: #fff;
+  text-align: center;
+  /* background-color: #CC7722; */
+  border-radius: 0px;
+  color: #ddd;
   display: none;
-  font-size: 13px;
+  font-size: 14px;
   padding: 10px;
+  border: solid 1px#CC7722;
 }
 
 #map {
@@ -2147,3 +2169,75 @@ blockquote {
 }
 
 /*# sourceMappingURL=maps/style.css.map */
+
+.modal-dialog{
+  width: 900px;
+}
+
+.bootstrap-datetimepicker-widget table td span.active{
+  background-color: #CC7722;
+}
+
+.bootstrap-datetimepicker-widget table td span:hover,
+.bootstrap-datetimepicker-widget table thead tr:first-child th:hover,
+.bootstrap-datetimepicker-widget table td.day:hover, .bootstrap-datetimepicker-widget table td.hour:hover, .bootstrap-datetimepicker-widget table td.minute:hover, .bootstrap-datetimepicker-widget table td.second:hover{
+  background: transparent;
+  color: #CC7722;
+}
+
+.bootstrap-datetimepicker-widget table td.active, .bootstrap-datetimepicker-widget table td.active:hover{
+  color: white !important;
+  background: #CC7722;
+}
+
+.bootstrap-datetimepicker-widget table td.today:before{
+  border-bottom-color: #CC7722;
+}
+
+@media (min-width: 768px) {
+  .modal-dialog {
+    margin: 90px auto;
+  }
+}
+
+
+/** Bootstrap Dark Modal Styles **/
+.modal-open .modal, .btn:focus {
+  outline: none !important;
+}
+
+//.modal.dark { background-color: #2d3032; }
+.modal.dark .modal-body {
+  background-image: url("backgrounds/bg-3.jpg");
+}
+
+.modal.dark .modal-header {
+  background: black;
+  border-bottom: 1px solid #CC7722;
+}
+.modal.dark .modal-header h1, .modal.dark .modal-header h2, .modal.dark .modal-header h3, .modal.dark .modal-header h4 {
+  color: #ccc;
+}
+
+.modal.dark .modal-footer {
+  background: black;
+  border-top: none;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+}
+
+.close {
+  color: #CC7722;
+  text-shadow: none;
+  opacity: 1;
+}
+
+.close {
+  button:hover{
+    color: white;
+    text-shadow: none;
+    opacity: 0.8;
+  }
+
+}

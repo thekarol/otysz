@@ -6,4 +6,9 @@ class MailingController < ApplicationController
     render json: {status:'sent'}
   end
 
+  def send_appointment_email
+    ApplicationMailer.client_appointment_email(params['project'],params['email'], params['phone_number'], params['part'], params['size'], params['name'], params['date'] ).deliver_now
+    render json: {status:'sent'}
+  end
+
 end

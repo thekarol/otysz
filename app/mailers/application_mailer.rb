@@ -10,4 +10,18 @@ class ApplicationMailer < ActionMailer::Base
     mail(to: 'otyszecki.kontakt@gmail.com', subject: subject)
 
   end
+
+  def client_appointment_email(project, email, phone_number, part, size, name, date)
+
+    @email = email
+    @phone_number = phone_number
+    @size = size
+    @part = part
+    @name = name
+    @project = project
+    @date = date
+
+    mail(to: 'otyszecki.kontakt@gmail.com', subject: name)
+
+  end
 end
