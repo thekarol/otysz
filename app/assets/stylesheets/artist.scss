@@ -18,13 +18,14 @@ html {
 
 body {
   background-color: #0d0d0d;
+  font-size: 18px;
   font-family: "Montserrat", sans-serif;
   color: #737f8a;
   -webkit-font-smoothing: antialiased;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #afbac4;
+  color: #cdd2d6;
 }
 
  h3, h4, h5, h6 {
@@ -36,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
   h1 {
     font-weight: 100 !important;
     font-size: 2000% !important;
-    font-family: "Broken Ground";
+    font-family: "vtks syndicate";
   }
 }
 
@@ -45,8 +46,8 @@ h1, h2, h3, h4, h5, h6 {
 .title {
   h2 {
     font-weight: 100 !important;
-    font-size: 550% !important;
-    font-family: "Broken Ground";
+    font-size: 350% !important;
+    font-family: "Cimbrian";
   }
 }
 
@@ -235,6 +236,49 @@ input:-webkit-autofill, textarea:-webkit-autofill, select:-webkit-autofill {
   background-size: cover;
   background-attachment: fixed;
 }
+//
+//.tattoo-icon:before{
+//  background-image: url("about/rose1.png");
+//}
+
+//.tattoo-icon:before {
+//  content: "\e03b";
+//  background-image: url("about/rose1.png");
+//}
+
+.tattoo-icon:before{
+  width: 80px;
+  content: " ";
+  background: transparent url(about/rose3.svg) no-repeat;
+  background-size: cover;
+  position: absolute;
+  left: 40px;
+  top: -1px;
+  height: 90px;
+}
+
+.knight-icon:before{
+  width: 90px;
+  content: " ";
+  background: transparent url(about/knight1.svg) no-repeat;
+  background-size: cover;
+  position: absolute;
+  left: 35px;
+  top: -3px;
+  height: 100px;
+}
+
+.art-icon:before{
+  width: 90px;
+  content: " ";
+  background: transparent url(about/sword1.svg) no-repeat;
+  background-size: cover;
+  position: absolute;
+  left: 35px;
+  top: -3px;
+  height: 90px;
+}
+
 
 .bg-dark {
   background: rgb(32,32,32);
@@ -821,7 +865,7 @@ a:focus, a:hover {
 }
 
 .about .block .icon-box h3 {
-  color: #afbac4;
+  color: #cdd2d6;
 }
 
 #about{
@@ -838,7 +882,6 @@ a:focus, a:hover {
 ==================================================================*/
 .about-2 .content-block {
   padding: 40px;
-  padding-top: 60px;
 }
 
 .about-2 .content-block .media {
@@ -1350,7 +1393,7 @@ a:focus, a:hover {
 }
 
 .client-comment p {
-  color: #afbac4;
+  color: #cdd2d6;
   font-size: 18px;
 }
 
@@ -2240,4 +2283,10 @@ blockquote {
     opacity: 0.8;
   }
 
+}
+
+a, a:focus, a:hover{
+  .block{
+    color: #737f8a;
+  }
 }
