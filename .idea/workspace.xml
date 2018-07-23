@@ -2,17 +2,122 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46824382-dbb0-4e52-9b19-414dd13bf547" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/about/knight1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/about/rose1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/about/rose2.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/about/rose3.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/about/sword1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/plugins/mcf-fonts/fonts/Cimbrian.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/plugins/mcf-fonts/fonts/HelveticaNeueW01-45Ligh.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/plugins/mcf-fonts/fonts/vtks syndicate.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Otysz.iml" afterPath="$PROJECT_DIR$/.idea/Otysz.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_1a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_1b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_1c.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_1d.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_1e.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_29.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_2a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_2b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_2c.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_2d.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_2e.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_30.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_31.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_36.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_39.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_3d.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_44.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_45.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_47.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_48.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_4b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_4c.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_4d.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_4e.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_51.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_55.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_56.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_57.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_59.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_5a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_5b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_5d.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_5e.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_5f.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_60.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_63.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_64.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_66.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_6a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_6b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_6c.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_6d.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_6f.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_73.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_74.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_7a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_7b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_7e.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_7f.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_82.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_83.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_84.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_85.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_86.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_c.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/color/UNADJUSTEDNONRAW_thumb_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/color/UNADJUSTEDNONRAW_thumb_21.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/color/UNADJUSTEDNONRAW_thumb_35.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/color/UNADJUSTEDNONRAW_thumb_3a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/color/UNADJUSTEDNONRAW_thumb_49.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/color/UNADJUSTEDNONRAW_thumb_4a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/color/UNADJUSTEDNONRAW_thumb_5c.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/color/UNADJUSTEDNONRAW_thumb_67.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/color/UNADJUSTEDNONRAW_thumb_6e.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/color/UNADJUSTEDNONRAW_thumb_70.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/color/UNADJUSTEDNONRAW_thumb_71.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/color/UNADJUSTEDNONRAW_thumb_81.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/color/UNADJUSTEDNONRAW_thumb_9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/flash/UNADJUSTEDNONRAW_thumb_19.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/flash/UNADJUSTEDNONRAW_thumb_1b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/flash/UNADJUSTEDNONRAW_thumb_22.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/flash/UNADJUSTEDNONRAW_thumb_24.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/flash/UNADJUSTEDNONRAW_thumb_32.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/flash/UNADJUSTEDNONRAW_thumb_33.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/flash/UNADJUSTEDNONRAW_thumb_34.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/flash/UNADJUSTEDNONRAW_thumb_43.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/flash/UNADJUSTEDNONRAW_thumb_7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/flash/UNADJUSTEDNONRAW_thumb_75.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/flash/UNADJUSTEDNONRAW_thumb_76.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/flash/UNADJUSTEDNONRAW_thumb_77.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/zrzuta/UNADJUSTEDNONRAW_thumb_3b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/zrzuta/UNADJUSTEDNONRAW_thumb_58.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/zrzuta/UNADJUSTEDNONRAW_thumb_61.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/zrzuta/UNADJUSTEDNONRAW_thumb_65.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/zrzuta/UNADJUSTEDNONRAW_thumb_d.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/noise.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/portfolio/portfolio-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/portfolio/portfolio-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/portfolio/portfolio-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/portfolio/portfolio-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/portfolio/portfolio-5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/portfolio/portfolio-6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/portfolio/portfolio-7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/portfolio/portfolio-8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/portfolio/tattoo1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/portfolio/tattoo2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/portfolio/tattoo3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/portfolio/tattoo4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/portfolio/tattoo5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/portfolio/tattoo6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/portfolio/tattoo7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/portfolio/tattoo8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/portfolio/tattoo9.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/images/backgrounds/gray_noise.png" afterPath="$PROJECT_DIR$/app/assets/images/backgrounds/gray_noise.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/plugins/mcf-fonts/style.css" afterPath="$PROJECT_DIR$/app/assets/plugins/mcf-fonts/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/javascripts/application.coffee" afterPath="$PROJECT_DIR$/app/assets/javascripts/application.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/javascripts/artist.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/artist.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/artist.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/artist.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/artist/show.html.erb" afterPath="$PROJECT_DIR$/app/views/artist/show.html.erb" />
     </list>
@@ -30,71 +135,43 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="show.html.erb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="application.coffee" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.coffee">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cable.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/cable.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="43" lean-forward="true" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="artist.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/artist.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1410">
+              <caret line="94" column="0" lean-forward="false" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="show.html.erb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/artist/show.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="114" column="12" lean-forward="true" selection-start-line="114" selection-start-column="12" selection-end-line="114" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="artist.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/artist.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="13245">
-              <caret line="883" column="16" lean-forward="false" selection-start-line="883" selection-start-column="16" selection-end-line="883" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="rose3.svg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/images/about/rose3.svg">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="10455" lean-forward="false" selection-start-line="0" selection-start-column="10455" selection-end-line="0" selection-end-column="10455" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="rose2.svg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/images/about/rose2.svg">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="197" lean-forward="false" selection-start-line="1" selection-start-column="183" selection-end-line="1" selection-end-column="197" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="knight1.svg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/images/about/knight1.svg">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="211" lean-forward="false" selection-start-line="0" selection-start-column="211" selection-end-line="0" selection-end-column="211" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="rose1.svg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/images/about/rose1.svg">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="16041" lean-forward="false" selection-start-line="0" selection-start-column="16027" selection-end-line="0" selection-end-column="16041" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sword1.svg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/images/about/sword1.svg">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="695" lean-forward="false" selection-start-line="0" selection-start-column="695" selection-end-line="0" selection-end-column="695" />
+            <state relative-caret-position="1605">
+              <caret line="107" column="29" lean-forward="false" selection-start-line="107" selection-start-column="29" selection-end-line="107" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -104,36 +181,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>otyszecki.kontakt@gmail.com</find>
-      <find>.contact-form</find>
-      <find>appo</find>
-      <find>appointment</find>
-      <find>.succ</find>
-      <find>Sending</find>
-      <find>cf-</find>
-      <find>submit</find>
-      <find>contact-submit</find>
-      <find>appointment-submit</find>
-      <find>appointment:</find>
-      <find>contact-submit&quot;</find>
-      <find>font-weight:</find>
-      <find>font-size</find>
-      <find>font-size: 14px</find>
-      <find>body</find>
-      <find>tf-strategy</find>
-      <find>tf-tools</find>
-      <find>imagr</find>
-      <find>icon-box</find>
-      <find>background</find>
-      <find>#afbac4</find>
-      <find>-ico</find>
-      <find>class=&quot;fil0&quot;</find>
-      <find>Otysz Otyszecki</find>
-      <find>#000000</find>
       <find>t-ico</find>
-      <find>about</find>
       <find>#about</find>
       <find>.about-2 .content-block</find>
+      <find>client_appointment_email</find>
+      <find>font-family</find>
+      <find>pre</find>
+      <find>bg-1</find>
+      <find>selectio</find>
+      <find>padding: 70px 0;</find>
+      <find>one</find>
+      <find>rea</find>
+      <find>.about</find>
+      <find>btn</find>
+      <find>30px</find>
+      <find>.btn-main</find>
+      <find>h2</find>
+      <find>form</find>
+      <find>form-group</find>
+      <find>mail</find>
+      <find>Sprawd</find>
+      <find>tattoo1</find>
+      <find>tattoo2</find>
+      <find>byeb</find>
+      <find>data-toggle</find>
+      <find>img</find>
+      <find>portfolio</find>
+      <find>about</find>
+      <find>img-respo</find>
+      <find>filter</find>
+      <find>btn-main</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -151,6 +228,7 @@
     </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/app/assets/javascripts</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -192,20 +270,21 @@
         <option value="$PROJECT_DIR$/app/assets/stylesheets/artist2.scss" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/application.sass" />
         <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/app/assets/javascripts/application.coffee" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/mailers/application_mailer.rb" />
         <option value="$PROJECT_DIR$/app/controllers/mailing_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/application_mailer/client_appointment_email.html.erb" />
-        <option value="$PROJECT_DIR$/app/assets/javascripts/artist.js" />
         <option value="$PROJECT_DIR$/app/assets/plugins/mcf-fonts/style.css" />
         <option value="$PROJECT_DIR$/app/assets/images/about/knight1.svg" />
         <option value="$PROJECT_DIR$/app/assets/images/about/rose1.svg" />
         <option value="$PROJECT_DIR$/app/assets/images/about/sword1.svg" />
         <option value="$PROJECT_DIR$/app/assets/images/about/rose2.svg" />
         <option value="$PROJECT_DIR$/app/assets/images/about/rose3.svg" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/artist.scss" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/application.coffee" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/noise.js" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/artist.js" />
         <option value="$PROJECT_DIR$/app/views/artist/show.html.erb" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/artist.scss" />
       </list>
     </option>
   </component>
@@ -216,9 +295,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="817" />
+    <option name="width" value="1436" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -235,9 +313,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="RailsProjectView" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -266,17 +344,7 @@
             <path>
               <item name="Otysz" type="b2602c69:ProjectViewProjectNode" />
               <item name="Otysz" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="about" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Otysz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Otysz" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="stylesheets" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Otysz" type="b2602c69:ProjectViewProjectNode" />
@@ -302,21 +370,22 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/app/assets/images/about" />
-      <recent name="$PROJECT_DIR$/app/views/application_mailer" />
-      <recent name="$PROJECT_DIR$/app/assets/plugins/bootstrap/dist/font" />
-      <recent name="$PROJECT_DIR$/app/assets/plugins/themefisher-font/fonts" />
-      <recent name="$PROJECT_DIR$/app/controllers" />
+      <recent name="$PROJECT_DIR$/app/assets/images/color" />
+      <recent name="$PROJECT_DIR$/app/assets/images/flash" />
+      <recent name="$PROJECT_DIR$/app/assets/images/black" />
+      <recent name="$PROJECT_DIR$/app/assets/images/zrzuta" />
+      <recent name="$PROJECT_DIR$/app/assets/javascripts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/assets/images/backgrounds" />
       <recent name="$PROJECT_DIR$/app/assets/plugins/mcf-fonts/fonts" />
       <recent name="$PROJECT_DIR$/app/assets/fonts" />
       <recent name="$PROJECT_DIR$/app/assets/images" />
       <recent name="$PROJECT_DIR$/app/assets/images/portfolio" />
-      <recent name="$PROJECT_DIR$/app/assets/images/backgrounds" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -449,7 +518,13 @@
       <workItem from="1523627396676" duration="3650000" />
       <workItem from="1524049741791" duration="13700000" />
       <workItem from="1524130323016" duration="10120000" />
-      <workItem from="1524507348842" duration="5000" />
+      <workItem from="1524507348842" duration="603000" />
+      <workItem from="1526299602725" duration="1175000" />
+      <workItem from="1526382556073" duration="2341000" />
+      <workItem from="1531995364920" duration="1463000" />
+      <workItem from="1532032538701" duration="467000" />
+      <workItem from="1532196765880" duration="10244000" />
+      <workItem from="1532341922742" duration="3000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1523456731161</created>
@@ -563,52 +638,59 @@
       <option name="project" value="LOCAL" />
       <updated>1524126929193</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="icons">
+      <created>1524507363106</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1524507363106</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70073000" />
+    <option name="totallyTimeSpent" value="86364000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="817" extended-state="0" />
+    <frame x="0" y="0" width="1436" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19742489" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10724234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16910785" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1515528" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.01864181" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3288948" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22246066" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.01864181" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1515528" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20333599" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.01864181" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -654,95 +736,14 @@
     <MESSAGE value="ups" />
     <MESSAGE value="appointment" />
     <MESSAGE value="css_error_fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="css_error_fix" />
+    <MESSAGE value="icons" />
+    <option name="LAST_COMMIT_MESSAGE" value="icons" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/views/application_mailer/client_email.text.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/fonts/mcf_funera/sxg3cp87.png" />
-    <entry file="file://$PROJECT_DIR$/app/assets/fonts/vampiress/font info.txt" />
-    <entry file="file://$PROJECT_DIR$/app/assets/plugins/mcf-fonts/fonts/MCF_funera.ttf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/plugins/themefisher-font/fonts/themefisher-font.ttf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/artist_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/artist2_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/artist1_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/artist1/show.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8100">
-          <caret line="540" column="6" lean-forward="false" selection-start-line="540" selection-start-column="6" selection-end-line="540" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/artist1.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="32" column="3" lean-forward="true" selection-start-line="27" selection-start-column="2" selection-end-line="32" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/artist2.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="33" column="0" lean-forward="true" selection-start-line="27" selection-start-column="2" selection-end-line="33" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/artist2/show.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7950">
-          <caret line="540" column="6" lean-forward="false" selection-start-line="540" selection-start-column="6" selection-end-line="540" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/images/backgrounds/bg-0.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/images/backgrounds/bg-2.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/images/backgrounds/bg-3.jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -752,13 +753,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -782,52 +776,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="18" lean-forward="false" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/mailers/application_mailer.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="6" lean-forward="false" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/application_mailer/client_appointment_email.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="11" lean-forward="false" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/mailing_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="34" lean-forward="false" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/artist.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2535">
-          <caret line="169" column="29" lean-forward="false" selection-start-line="169" selection-start-column="29" selection-end-line="169" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -853,16 +805,8 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/images/portfolio/portfolio-5.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/images/portfolio/tattoo6.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/portfolio/portfolio-5.jpg" />
+    <entry file="file://$PROJECT_DIR$/app/assets/images/portfolio/tattoo6.jpg" />
     <entry file="file://$PROJECT_DIR$/app/assets/images/slider/hero-area.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -890,7 +834,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="695" lean-forward="false" selection-start-line="0" selection-start-column="695" selection-end-line="0" selection-end-column="695" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -898,7 +841,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="16041" lean-forward="false" selection-start-line="0" selection-start-column="16027" selection-end-line="0" selection-end-column="16041" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -906,7 +848,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="211" lean-forward="false" selection-start-line="0" selection-start-column="211" selection-end-line="0" selection-end-column="211" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -914,7 +855,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="197" lean-forward="false" selection-start-line="1" selection-start-column="183" selection-end-line="1" selection-end-column="197" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -922,23 +862,166 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="10455" lean-forward="false" selection-start-line="0" selection-start-column="10455" selection-end-line="0" selection-end-column="10455" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/environment.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/mailers/application_mailer.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="30" lean-forward="false" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/application_mailer/client_appointment_email.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="11" lean-forward="false" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="3" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="39" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="65" column="43" lean-forward="false" selection-start-line="65" selection-start-column="43" selection-end-line="65" selection-end-column="43" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/artist.scss">
+    <entry file="file://$PROJECT_DIR$/app/controllers/mailing_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13245">
-          <caret line="883" column="16" lean-forward="false" selection-start-line="883" selection-start-column="16" selection-end-line="883" selection-end-column="16" />
+        <state relative-caret-position="135">
+          <caret line="9" column="182" lean-forward="false" selection-start-line="9" selection-start-column="171" selection-end-line="9" selection-end-column="182" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/application_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/app_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/backgrounds/gray_noise.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/backgrounds/bg-3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/backgrounds/ochre.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/backgrounds/noize_background_black.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/zrzuta/UNADJUSTEDNONRAW_thumb_3b.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/zrzuta/UNADJUSTEDNONRAW_thumb_58.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/zrzuta/UNADJUSTEDNONRAW_thumb_61.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/plugins/mixitup/dist/mixitup.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="17" column="23899" lean-forward="false" selection-start-line="17" selection-start-column="23899" selection-end-line="17" selection-end-column="23899" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/artist/show.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="114" column="12" lean-forward="true" selection-start-line="114" selection-start-column="12" selection-end-line="114" selection-end-column="12" />
+        <state relative-caret-position="1605">
+          <caret line="107" column="29" lean-forward="false" selection-start-line="107" selection-start-column="29" selection-end-line="107" selection-end-column="29" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/artist.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1410">
+          <caret line="94" column="0" lean-forward="false" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/artist.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="345" column="18" lean-forward="true" selection-start-line="345" selection-start-column="18" selection-end-line="345" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/noise.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="72" column="34" lean-forward="false" selection-start-line="72" selection-start-column="34" selection-end-line="72" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/cable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="43" lean-forward="true" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

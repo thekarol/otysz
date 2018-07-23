@@ -93,8 +93,11 @@ jQuery(function ($) { "use strict";
     /*	Portfolio Filtering Hook
         /* =========================================================================  */
 
-    var mixer = mixitup('.portfolio-items-wrapper');
-
+    var mixer =  mixitup('.portfolio-items-wrapper', {
+        selectors: {
+            control: '[data-mixitup-control]'
+        }
+    })
     /* ========================================================================= */
     /*	Testimonial Carousel
 /* =========================================================================  */
@@ -347,6 +350,7 @@ var scroll = new SmoothScroll('a[href*="#"]');
 
 function initialize() {
 
+    noise();
     var myLatLng = new google.maps.LatLng(52.229886, 20.907876);
 
     var roadAtlasStyles = [{

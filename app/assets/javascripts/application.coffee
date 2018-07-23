@@ -13,4 +13,5 @@
 #= require moment/pl
 #= require bootstrap-datetimepicker
 
+#= require noise.js
 #= require artist
