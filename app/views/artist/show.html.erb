@@ -331,7 +331,7 @@
       <% ['black', 'color', 'zrzuta', 'flash'].each do |dir| %>
         <% Dir.glob("#{Rails.root}/app/assets/images/"+dir+"/*") do |image| %>
             <% icon_base = File.basename(image) %>
-            <div class="mix col-md-3 <%=dir%>">
+            <div class="mix col-md-4 <%=dir%>">
               <div class="portfolio-block image-popup" data-effect="mfp-with-zoom" href="assets/<%=dir%>/<%= icon_base %>" data-lightbox="<%= icon_base %>">
                 <img class="img-responsive" src="assets/<%=dir%>/<%= icon_base %>" alt="">
                 <div class="caption">

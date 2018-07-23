@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46824382-dbb0-4e52-9b19-414dd13bf547" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Otysz.iml" afterPath="$PROJECT_DIR$/.idea/Otysz.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/artist.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/artist.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/artist/show.html.erb" afterPath="$PROJECT_DIR$/app/views/artist/show.html.erb" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -23,8 +23,8 @@
       <file leaf-file-name="artist.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/artist.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="1217" column="20" lean-forward="false" selection-start-line="1217" selection-start-column="20" selection-end-line="1217" selection-end-column="20" />
+            <state relative-caret-position="352">
+              <caret line="358" column="1" lean-forward="false" selection-start-line="358" selection-start-column="1" selection-end-line="358" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -95,8 +95,8 @@
       <file leaf-file-name="show.html.erb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/artist/show.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="107" column="29" lean-forward="false" selection-start-line="107" selection-start-column="29" selection-end-line="107" selection-end-column="29" />
+            <state relative-caret-position="203">
+              <caret line="333" column="36" lean-forward="false" selection-start-line="333" selection-start-column="36" selection-end-line="333" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -106,8 +106,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>pre</find>
-      <find>bg-1</find>
       <find>selectio</find>
       <find>padding: 70px 0;</find>
       <find>one</find>
@@ -136,6 +134,8 @@
       <find>sprockets</find>
       <find>spro</find>
       <find>img</find>
+      <find>300</find>
+      <find>0.2</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -206,10 +206,10 @@
         <option value="$PROJECT_DIR$/app/assets/javascripts/application.coffee" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/noise.js" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/artist.js" />
-        <option value="$PROJECT_DIR$/app/views/artist/show.html.erb" />
         <option value="$PROJECT_DIR$/config/environments/production.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/Gemfile.lock" />
+        <option value="$PROJECT_DIR$/app/views/artist/show.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/artist.scss" />
       </list>
     </option>
@@ -461,7 +461,7 @@
       <workItem from="1531995364920" duration="1463000" />
       <workItem from="1532032538701" duration="467000" />
       <workItem from="1532196765880" duration="10244000" />
-      <workItem from="1532341922742" duration="1651000" />
+      <workItem from="1532341922742" duration="2047000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1523456731161</created>
@@ -603,11 +603,18 @@
       <option name="project" value="LOCAL" />
       <updated>1532344848999</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="gallery img object-fit: cover;">
+      <created>1532347770729</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1532347770729</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88012000" />
+    <option name="totallyTimeSpent" value="88408000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1436" height="900" extended-state="0" />
@@ -698,7 +705,8 @@
     <MESSAGE value="gallery" />
     <MESSAGE value="fix for jsx" />
     <MESSAGE value="gemfile" />
-    <option name="LAST_COMMIT_MESSAGE" value="gemfile" />
+    <MESSAGE value="gallery img object-fit: cover;" />
+    <option name="LAST_COMMIT_MESSAGE" value="gallery img object-fit: cover;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -938,16 +946,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/cable.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="43" lean-forward="false" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
@@ -974,16 +972,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/artist/show.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="107" column="29" lean-forward="false" selection-start-line="107" selection-start-column="29" selection-end-line="107" selection-end-column="29" />
+        <state relative-caret-position="203">
+          <caret line="333" column="36" lean-forward="false" selection-start-line="333" selection-start-column="36" selection-end-line="333" selection-end-column="36" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/cable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="43" lean-forward="false" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/artist.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="1217" column="20" lean-forward="false" selection-start-line="1217" selection-start-column="20" selection-end-line="1217" selection-end-column="20" />
+        <state relative-caret-position="352">
+          <caret line="358" column="1" lean-forward="false" selection-start-line="358" selection-start-column="1" selection-end-line="358" selection-end-column="1" />
           <folding />
         </state>
       </provider>
