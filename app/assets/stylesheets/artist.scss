@@ -57,6 +57,9 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+.media-body a{
+  color: #737f8a;
+}
 
 p {
   font-family: "Montserrat", sans-serif;
@@ -347,10 +350,10 @@ a:focus, a:hover {
   letter-spacing: 1px;
   text-transform: uppercase;
   border: 1px solid rgba(1, 1, 1, 0.1);
-  height: 100px;
   width: 50%;
   margin: 0px;
-  padding-top: 30px;
+  padding: 30px;
+  white-space: normal;
 }
 
 .btn-main:hover {
@@ -457,7 +460,7 @@ a:focus, a:hover {
 .sk-cube-grid {
   width: 40px;
   height: 40px;
-  margin: 100px auto;
+  margin: 50px auto;
 }
 
 .sk-cube-grid .sk-cube {
@@ -679,6 +682,13 @@ a:focus, a:hover {
   background: transparent;
   color: #CC7722;
 }
+
+@media (min-width: 768px) {
+  .modal-dialog {
+    margin: 90px auto;
+  }
+}
+
 
 .navbar-toggle {
   border: 1px solid #fff;
@@ -2281,8 +2291,15 @@ blockquote {
 
 /*# sourceMappingURL=maps/style.css.map */
 
-.modal-dialog{
-  width: 900px;
+@media only screen and (min-width: 900px) {
+  .modal-dialog{
+    width: 900px;
+  }
+}
+
+
+.navbar-collapse.in{
+  background-color: #0d0d0d;
 }
 
 .bootstrap-datetimepicker-widget table td span.active{
@@ -2304,13 +2321,6 @@ blockquote {
 .bootstrap-datetimepicker-widget table td.today:before{
   border-bottom-color: #CC7722;
 }
-
-@media (min-width: 768px) {
-  .modal-dialog {
-    margin: 90px auto;
-  }
-}
-
 
 /** Bootstrap Dark Modal Styles **/
 .modal-open .modal, .btn:focus {

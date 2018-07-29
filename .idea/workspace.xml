@@ -2,6 +2,97 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46824382-dbb0-4e52-9b19-414dd13bf547" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/355.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/356.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/358.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/666.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/789.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/7950.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/7953.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/934.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/935.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/947.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/999.jpg" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/black/7952.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_1a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_1c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_1e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_29.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_3b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_4c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_56.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_5d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_60.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_63.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_7a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_7b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_7e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_83.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_84.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_86.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/flash/UNADJUSTEDNONRAW_thumb_1b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/zrzuta/UNADJUSTEDNONRAW_thumb_58.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/zrzuta/UNADJUSTEDNONRAW_thumb_61.jpg" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_1.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/888.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_10.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/795.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_11.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/9561.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_12.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/79521.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_15.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/788.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_17.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/3651.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_18.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/796.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_1b.jpg" afterPath="$PROJECT_DIR$/app/assets/images/flash/UNADJUSTEDNONRAW_thumb_44.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_1d.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/555.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_2a.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/892.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_2b.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/797.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_2c.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/798.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_2d.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/891.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_2e.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/7921.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_3.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/7881.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_30.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/894.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_31.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/792.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_36.jpg" afterPath="$PROJECT_DIR$/app/assets/images/color/334.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_39.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/940.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_3d.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/948.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_44.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/364.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_45.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/365.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_47.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/222.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_48.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/946.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_4d.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/366.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_4e.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/790.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_51.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/933.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_55.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/333.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_57.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/777.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_59.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/361.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_5a.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/362.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_5b.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/363.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_5e.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/359.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_5f.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/360.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_64.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/956.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_66.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/001.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_6a.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/344.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_6b.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/794.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_6c.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/793.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_6d.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/955.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_6f.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/954.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_73.jpg" afterPath="$PROJECT_DIR$/app/assets/images/color/222.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_74.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/957.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_7f.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/952.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_85.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/930.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_b.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/101.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_c.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/943.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/color/UNADJUSTEDNONRAW_thumb_2.jpg" afterPath="$PROJECT_DIR$/app/assets/images/color/000.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/color/UNADJUSTEDNONRAW_thumb_21.jpg" afterPath="$PROJECT_DIR$/app/assets/images/color/333.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/color/UNADJUSTEDNONRAW_thumb_35.jpg" afterPath="$PROJECT_DIR$/app/assets/images/color/230.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/color/UNADJUSTEDNONRAW_thumb_3a.jpg" afterPath="$PROJECT_DIR$/app/assets/images/color/344.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/color/UNADJUSTEDNONRAW_thumb_67.jpg" afterPath="$PROJECT_DIR$/app/assets/images/color/111.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/color/UNADJUSTEDNONRAW_thumb_70.jpg" afterPath="$PROJECT_DIR$/app/assets/images/color/224.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/color/UNADJUSTEDNONRAW_thumb_71.jpg" afterPath="$PROJECT_DIR$/app/assets/images/color/223.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/color/UNADJUSTEDNONRAW_thumb_81.jpg" afterPath="$PROJECT_DIR$/app/assets/images/color/444.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/color/UNADJUSTEDNONRAW_thumb_9.jpg" afterPath="$PROJECT_DIR$/app/assets/images/color/340.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/flash/UNADJUSTEDNONRAW_thumb_19.jpg" afterPath="$PROJECT_DIR$/app/assets/images/flash/UNADJUSTEDNONRAW_thumb_778.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/zrzuta/UNADJUSTEDNONRAW_thumb_65.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/953.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/zrzuta/UNADJUSTEDNONRAW_thumb_d.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_d.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Otysz.iml" afterPath="$PROJECT_DIR$/.idea/Otysz.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/artist.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/artist.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/artist/show.html.erb" afterPath="$PROJECT_DIR$/app/views/artist/show.html.erb" />
@@ -23,70 +114,8 @@
       <file leaf-file-name="artist.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/artist.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="358" column="1" lean-forward="false" selection-start-line="358" selection-start-column="1" selection-end-line="358" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.coffee" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.coffee">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cable.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/cable.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="43" lean-forward="false" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="artist.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/artist.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1410">
-              <caret line="94" column="0" lean-forward="false" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="production.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="28" column="38" lean-forward="false" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Gemfile" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gemfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="19" column="27" lean-forward="false" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Gemfile.lock" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gemfile.lock">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="148" column="28" lean-forward="false" selection-start-line="148" selection-start-column="28" selection-end-line="148" selection-end-column="28" />
+            <state relative-caret-position="233">
+              <caret line="2300" column="19" lean-forward="false" selection-start-line="2300" selection-start-column="19" selection-end-line="2300" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -95,8 +124,8 @@
       <file leaf-file-name="show.html.erb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/artist/show.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="333" column="36" lean-forward="false" selection-start-line="333" selection-start-column="36" selection-end-line="333" selection-end-column="36" />
+            <state relative-caret-position="202">
+              <caret line="268" column="60" lean-forward="false" selection-start-line="268" selection-start-column="60" selection-end-line="268" selection-end-column="60" />
               <folding />
             </state>
           </provider>
@@ -106,15 +135,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>selectio</find>
-      <find>padding: 70px 0;</find>
-      <find>one</find>
-      <find>rea</find>
-      <find>.about</find>
-      <find>btn</find>
-      <find>30px</find>
-      <find>.btn-main</find>
-      <find>h2</find>
       <find>form</find>
       <find>form-group</find>
       <find>mail</find>
@@ -127,15 +147,24 @@
       <find>about</find>
       <find>img-respo</find>
       <find>filter</find>
-      <find>btn-main</find>
       <find>sprockets-rails</find>
       <find>3.2.1</find>
       <find>3.7.1</find>
-      <find>sprockets</find>
-      <find>spro</find>
       <find>img</find>
       <find>300</find>
       <find>0.2</find>
+      <find>sprockets</find>
+      <find>spro</find>
+      <find>sk-cu</find>
+      <find>hero-area</find>
+      <find>media</find>
+      <find>zgłoś</find>
+      <find>.btn-mai</find>
+      <find>btn-main</find>
+      <find>400</find>
+      <find>over</find>
+      <find>overflo</find>
+      <find>medi</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -221,7 +250,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1436" />
+    <option name="width" value="1093" />
     <option name="height" value="900" />
   </component>
   <component name="ProjectView">
@@ -239,9 +268,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="RailsProjectView" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -270,18 +296,15 @@
             <path>
               <item name="Otysz" type="b2602c69:ProjectViewProjectNode" />
               <item name="Otysz" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Otysz" type="b2602c69:ProjectViewProjectNode" />
               <item name="Otysz" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-              <item name="environments" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Otysz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Otysz" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="artist" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Otysz" type="b2602c69:ProjectViewProjectNode" />
@@ -302,27 +325,31 @@
           <select />
         </subPane>
       </pane>
+      <pane id="RailsProjectView" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/assets/images/black" />
       <recent name="$PROJECT_DIR$/app/assets/images/color" />
       <recent name="$PROJECT_DIR$/app/assets/images/flash" />
-      <recent name="$PROJECT_DIR$/app/assets/images/black" />
       <recent name="$PROJECT_DIR$/app/assets/images/zrzuta" />
       <recent name="$PROJECT_DIR$/app/assets/javascripts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/assets/images/black" />
+      <recent name="$PROJECT_DIR$/app/assets/images/color" />
       <recent name="$PROJECT_DIR$/app/assets/images/backgrounds" />
       <recent name="$PROJECT_DIR$/app/assets/plugins/mcf-fonts/fonts" />
       <recent name="$PROJECT_DIR$/app/assets/fonts" />
-      <recent name="$PROJECT_DIR$/app/assets/images" />
-      <recent name="$PROJECT_DIR$/app/assets/images/portfolio" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -461,7 +488,10 @@
       <workItem from="1531995364920" duration="1463000" />
       <workItem from="1532032538701" duration="467000" />
       <workItem from="1532196765880" duration="10244000" />
-      <workItem from="1532341922742" duration="2047000" />
+      <workItem from="1532341922742" duration="6625000" />
+      <workItem from="1532526787936" duration="8729000" />
+      <workItem from="1532605959212" duration="21000" />
+      <workItem from="1532605987120" duration="1464000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1523456731161</created>
@@ -610,21 +640,26 @@
       <option name="project" value="LOCAL" />
       <updated>1532347770729</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="gallery img md4">
+      <created>1532348179745</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1532348179745</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88408000" />
+    <option name="totallyTimeSpent" value="103200000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1436" height="900" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1093" height="900" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16573817" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21774931" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.01864181" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1515528" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -636,6 +671,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.01864181" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -706,186 +742,14 @@
     <MESSAGE value="fix for jsx" />
     <MESSAGE value="gemfile" />
     <MESSAGE value="gallery img object-fit: cover;" />
-    <option name="LAST_COMMIT_MESSAGE" value="gallery img object-fit: cover;" />
+    <MESSAGE value="gallery img md4" />
+    <option name="LAST_COMMIT_MESSAGE" value="gallery img md4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/assets/images/backgrounds/bg-3.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/images/backgrounds/bg-1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/plugins/themefisher-font/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/routes.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/plugins/mcf-fonts/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="23" lean-forward="false" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/images/about/company-growth.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/images/about/about-business-man.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/images/blog/avatar.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/images/portfolio/portfolio-5.jpg" />
-    <entry file="file://$PROJECT_DIR$/app/assets/images/portfolio/tattoo6.jpg" />
-    <entry file="file://$PROJECT_DIR$/app/assets/images/slider/hero-area.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/images/team/team-2.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/images/team/client-2.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/images/about/noun_29416_cc.png" />
-    <entry file="file://$PROJECT_DIR$/app/assets/images/about/r4.png" />
-    <entry file="file://$PROJECT_DIR$/app/assets/images/about/r3.png" />
-    <entry file="file://$PROJECT_DIR$/app/assets/images/about/noun_56772_cc (1).png" />
-    <entry file="file://$PROJECT_DIR$/app/assets/images/about/knight1.png" />
-    <entry file="file://$PROJECT_DIR$/app/assets/images/about/tarcza1.png" />
-    <entry file="file://$PROJECT_DIR$/app/assets/images/about/noun_18622_cc.png" />
-    <entry file="file://$PROJECT_DIR$/app/assets/images/about/rose1.png" />
-    <entry file="file://$PROJECT_DIR$/app/assets/images/about/sword1.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="695" lean-forward="false" selection-start-line="0" selection-start-column="695" selection-end-line="0" selection-end-column="695" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/images/about/rose1.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="16041" lean-forward="false" selection-start-line="0" selection-start-column="16027" selection-end-line="0" selection-end-column="16041" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/images/about/knight1.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="211" lean-forward="false" selection-start-line="0" selection-start-column="211" selection-end-line="0" selection-end-column="211" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/images/about/rose2.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="197" lean-forward="false" selection-start-line="1" selection-start-column="183" selection-end-line="1" selection-end-column="197" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/images/about/rose3.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="10455" lean-forward="false" selection-start-line="0" selection-start-column="10455" selection-end-line="0" selection-end-column="10455" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/environment.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/mailers/application_mailer.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="30" lean-forward="false" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/application_mailer/client_appointment_email.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="11" lean-forward="false" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="3" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="39" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/mailing_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="182" lean-forward="false" selection-start-line="9" selection-start-column="171" selection-end-line="9" selection-end-column="182" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/helpers/application_helper.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/helpers/app_helper.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/images/backgrounds/gray_noise.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/images/backgrounds/bg-3.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/images/backgrounds/ochre.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/images/backgrounds/noize_background_black.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -895,46 +759,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/images/zrzuta/UNADJUSTEDNONRAW_thumb_3b.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/images/zrzuta/UNADJUSTEDNONRAW_thumb_58.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/images/zrzuta/UNADJUSTEDNONRAW_thumb_61.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/zrzuta/UNADJUSTEDNONRAW_thumb_3b.jpg" />
+    <entry file="file://$PROJECT_DIR$/app/assets/images/zrzuta/UNADJUSTEDNONRAW_thumb_58.jpg" />
+    <entry file="file://$PROJECT_DIR$/app/assets/images/zrzuta/UNADJUSTEDNONRAW_thumb_61.jpg" />
     <entry file="file://$PROJECT_DIR$/app/assets/plugins/mixitup/dist/mixitup.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="567">
           <caret line="17" column="23899" lean-forward="false" selection-start-line="17" selection-start-column="23899" selection-end-line="17" selection-end-column="23899" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/artist.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1410">
-          <caret line="94" column="0" lean-forward="false" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -942,7 +776,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="519">
           <caret line="72" column="34" lean-forward="false" selection-start-line="72" selection-start-column="34" selection-end-line="72" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -950,7 +783,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="28" column="38" lean-forward="false" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -966,15 +798,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="194">
           <caret line="148" column="28" lean-forward="false" selection-start-line="148" selection-start-column="28" selection-end-line="148" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/artist/show.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="333" column="36" lean-forward="false" selection-start-line="333" selection-start-column="36" selection-end-line="333" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -982,16 +805,182 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="43" lean-forward="false" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_1c.jpg" />
+    <entry file="file://$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_1b.jpg" />
+    <entry file="file://$PROJECT_DIR$/app/assets/images/black/555.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/artist.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="95" column="24" lean-forward="false" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/black/344.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/black/355.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/black/356.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/black/333.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/black/358.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/black/359.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/black/790.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/black/797.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/black/888.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/black/945.jpg" />
+    <entry file="file://$PROJECT_DIR$/app/assets/images/black/930.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/black/943.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/black/7950.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/black/933.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/black/934.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/black/891.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/black/796.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/black/795.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/black/940.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/black/946.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/black/3651.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/black/957.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/black/948.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/black/7953.png" />
+    <entry file="file://$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_3b.jpg" />
+    <entry file="file://$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_3b.png" />
+    <entry file="file://$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_58.jpg" />
+    <entry file="file://$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_61.jpg" />
+    <entry file="file://$PROJECT_DIR$/app/assets/images/black/970.jpg" />
+    <entry file="file://$PROJECT_DIR$/app/assets/images/black/999.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_82.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/black/947.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/artist1.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/artist/show.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="268" column="60" lean-forward="false" selection-start-line="268" selection-start-column="60" selection-end-line="268" selection-end-column="60" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/artist.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="358" column="1" lean-forward="false" selection-start-line="358" selection-start-column="1" selection-end-line="358" selection-end-column="1" />
+        <state relative-caret-position="233">
+          <caret line="2300" column="19" lean-forward="false" selection-start-line="2300" selection-start-column="19" selection-end-line="2300" selection-end-column="19" />
           <folding />
         </state>
       </provider>

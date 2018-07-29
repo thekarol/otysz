@@ -27,6 +27,7 @@
     <div class="preloader">
       <div class="preloader-content">
         <canvas id="noise" class="noise"></canvas>
+        <h2>ładuję zdjęcia</h2>
         <div class="sk-cube-grid">
             <div class="sk-cube sk-cube1"></div>
             <div class="sk-cube sk-cube2"></div>
@@ -44,13 +45,14 @@
 
 <section class="hero-area">
     <div class="block">
+      <!--<h2> Otyszecki</h2>-->
         <div class="logo-button">
             <!--<i class="tf-ion-play"></i>-->
           M
         </div>
         <h1></h1>
         <p> TATTO | ART | WARSZAWA </p>
-        <a data-scroll href="#theartist" class="btn btn-transparent">ARTYSTA</a>
+        <a data-scroll href="#theartist" class="btn btn-transparent">OTYSZECKI</a>
     </div>
 </section>
 
@@ -126,7 +128,7 @@
                   <i class="tf-circle-compass"></i>
                 </div>
                 <div class="media-body">
-                  <h4 class="media-heading">Style</h4>
+                  <h4 class="media-heading">style</h4>
                   <p>- neotradycyjny <br>
                     - blackwork<br>
                     - oldschool<br>
@@ -140,8 +142,17 @@
                   <i class="tf-hotairballoon"></i>
                 </div>
                 <div class="media-body">
-                  <h4 class="media-heading">?????????</h4>
-                  <p> ?????????????  <br> ????????????? <br> ????????????? <br> ????????????? </p>
+                  <h4 class="media-heading">media</h4>
+                  <p>
+                    <a href="https://www.facebook.com/otysz/" >
+                      <i class="tf-ion-social-facebook" style="font-size: 14px;"></i> facebook
+
+                    </a>
+                  <br>
+                    <a href="https://www.instagram.com/otyszecki/" >
+                      <i class="tf-ion-social-instagram" style="font-size: 14px;"></i> instagram
+                    </a>
+                  </p>
                 </div>
               </div>
             </div>
@@ -255,7 +266,7 @@
 
                   <div class="col-md-5">
 
-                    <div style="overflow:hidden;  height: 330px;">
+                    <div style="overflow:hidden;  height: 300px;">
                       <div class="form-group">
                         <div class="row">
                           <div class="col-md-12">
@@ -329,7 +340,8 @@
     </div>
     <div class="row portfolio-items-wrapper">
       <% ['black', 'color', 'zrzuta', 'flash'].each do |dir| %>
-        <% Dir.glob("#{Rails.root}/app/assets/images/"+dir+"/*") do |image| %>
+        <% Dir.glob("#{Rails.root}/app/assets/images/"+dir+"/*").sort.each do |image| %>
+
             <% icon_base = File.basename(image) %>
             <div class="mix col-md-4 <%=dir%>">
               <div class="portfolio-block image-popup" data-effect="mfp-with-zoom" href="assets/<%=dir%>/<%= icon_base %>" data-lightbox="<%= icon_base %>">
