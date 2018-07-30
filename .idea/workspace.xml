@@ -2,97 +2,93 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46824382-dbb0-4e52-9b19-414dd13bf547" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/355.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/356.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/358.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/666.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/789.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/7950.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/7953.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/934.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/935.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/947.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/999.jpg" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/black/7952.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_1a.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_1c.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_1e.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_29.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_3b.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_4c.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_56.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_5d.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_60.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_63.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_7a.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_7b.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_7e.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_83.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_84.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_86.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/flash/UNADJUSTEDNONRAW_thumb_1b.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/zrzuta/UNADJUSTEDNONRAW_thumb_58.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/zrzuta/UNADJUSTEDNONRAW_thumb_61.jpg" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_1.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/888.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_10.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/795.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_11.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/9561.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_12.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/79521.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_15.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/788.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_17.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/3651.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_18.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/796.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_1b.jpg" afterPath="$PROJECT_DIR$/app/assets/images/flash/UNADJUSTEDNONRAW_thumb_44.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_1d.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/555.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_2a.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/892.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_2b.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/797.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_2c.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/798.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_2d.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/891.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_2e.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/7921.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_3.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/7881.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_30.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/894.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_31.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/792.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_36.jpg" afterPath="$PROJECT_DIR$/app/assets/images/color/334.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_39.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/940.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_3d.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/948.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_44.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/364.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_45.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/365.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_47.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/222.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_48.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/946.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_4d.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/366.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_4e.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/790.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_51.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/933.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_55.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/333.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_57.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/777.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_59.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/361.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_5a.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/362.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_5b.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/363.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_5e.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/359.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_5f.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/360.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_64.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/956.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_66.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/001.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_6a.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/344.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_6b.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/794.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_6c.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/793.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_6d.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/955.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_6f.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/954.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_73.jpg" afterPath="$PROJECT_DIR$/app/assets/images/color/222.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_74.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/957.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_7f.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/952.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_85.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/930.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_b.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/101.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_c.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/943.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/color/UNADJUSTEDNONRAW_thumb_2.jpg" afterPath="$PROJECT_DIR$/app/assets/images/color/000.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/color/UNADJUSTEDNONRAW_thumb_21.jpg" afterPath="$PROJECT_DIR$/app/assets/images/color/333.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/color/UNADJUSTEDNONRAW_thumb_35.jpg" afterPath="$PROJECT_DIR$/app/assets/images/color/230.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/color/UNADJUSTEDNONRAW_thumb_3a.jpg" afterPath="$PROJECT_DIR$/app/assets/images/color/344.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/color/UNADJUSTEDNONRAW_thumb_67.jpg" afterPath="$PROJECT_DIR$/app/assets/images/color/111.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/color/UNADJUSTEDNONRAW_thumb_70.jpg" afterPath="$PROJECT_DIR$/app/assets/images/color/224.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/color/UNADJUSTEDNONRAW_thumb_71.jpg" afterPath="$PROJECT_DIR$/app/assets/images/color/223.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/color/UNADJUSTEDNONRAW_thumb_81.jpg" afterPath="$PROJECT_DIR$/app/assets/images/color/444.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/color/UNADJUSTEDNONRAW_thumb_9.jpg" afterPath="$PROJECT_DIR$/app/assets/images/color/340.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/flash/UNADJUSTEDNONRAW_thumb_19.jpg" afterPath="$PROJECT_DIR$/app/assets/images/flash/UNADJUSTEDNONRAW_thumb_778.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/zrzuta/UNADJUSTEDNONRAW_thumb_65.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/953.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/zrzuta/UNADJUSTEDNONRAW_thumb_d.jpg" afterPath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_d.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Otysz.iml" afterPath="$PROJECT_DIR$/.idea/Otysz.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/black/3651.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/black/001.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/black/101.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/black/222.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/black/333.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/black/344.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/black/355.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/black/356.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/black/358.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/black/359.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/black/360.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/black/361.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/black/362.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/black/363.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/black/364.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/black/365.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/black/366.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/black/555.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/black/666.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/black/777.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/black/788.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/black/7881.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/black/789.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/black/790.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/black/792.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/black/7921.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/black/793.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/black/794.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/black/795.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/black/7950.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/black/79521.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/black/796.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/black/797.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/black/798.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/black/888.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/black/891.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/black/892.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/black/894.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/black/930.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/black/933.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/black/934.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/black/935.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/black/940.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/black/943.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/black/946.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/black/947.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/black/948.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/black/952.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/black/953.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/black/954.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/black/955.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/black/956.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/black/9561.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/black/UNADJUSTEDNONRAW_thumb_82.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/black/UNADJUSTEDNONRAW_thumb_d.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/color/000.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/color/111.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/color/222.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/color/223.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/color/224.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/color/230.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/color/333.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/color/334.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/color/340.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/color/444.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/color/UNADJUSTEDNONRAW_thumb_49.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/color/UNADJUSTEDNONRAW_thumb_4a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/color/UNADJUSTEDNONRAW_thumb_5c.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/color/UNADJUSTEDNONRAW_thumb_6e.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/flash/UNADJUSTEDNONRAW_thumb_22.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/flash/UNADJUSTEDNONRAW_thumb_24.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/flash/UNADJUSTEDNONRAW_thumb_32.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/flash/UNADJUSTEDNONRAW_thumb_33.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/flash/UNADJUSTEDNONRAW_thumb_34.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/flash/UNADJUSTEDNONRAW_thumb_43.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/flash/UNADJUSTEDNONRAW_thumb_44.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/flash/UNADJUSTEDNONRAW_thumb_7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/flash/UNADJUSTEDNONRAW_thumb_75.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/flash/UNADJUSTEDNONRAW_thumb_76.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/flash/UNADJUSTEDNONRAW_thumb_77.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/icons/flash/UNADJUSTEDNONRAW_thumb_778.jpg" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/black/957.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/black/999.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/color/344.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/icons/black/3651.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/zrzuta/UNADJUSTEDNONRAW_thumb_3b.jpg" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/images/black/UNADJUSTEDNONRAW_thumb_4b.jpg" afterPath="$PROJECT_DIR$/app/assets/images/icons/black/7953.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/artist.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/artist.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/artist/show.html.erb" afterPath="$PROJECT_DIR$/app/views/artist/show.html.erb" />
@@ -110,22 +106,41 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="artist.scss" pinned="false" current-in-tab="true">
+    <leaf>
+      <file leaf-file-name="artist.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/artist.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="2300" column="19" lean-forward="false" selection-start-line="2300" selection-start-column="19" selection-end-line="2300" selection-end-column="19" />
+            <state relative-caret-position="202">
+              <caret line="1008" column="0" lean-forward="false" selection-start-line="1008" selection-start-column="0" selection-end-line="1011" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="show.html.erb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="show.html.erb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/artist/show.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="268" column="60" lean-forward="false" selection-start-line="268" selection-start-column="60" selection-end-line="268" selection-end-column="60" />
+            <state relative-caret-position="436">
+              <caret line="363" column="22" lean-forward="false" selection-start-line="363" selection-start-column="22" selection-end-line="363" selection-end-column="22" />
+              <folding>
+                <element signature="n#style#0;n#i#0;n#a#0;n#p#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#a#1;n#p#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#1;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.sass" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.sass">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -135,12 +150,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>form</find>
-      <find>form-group</find>
-      <find>mail</find>
-      <find>Sprawd</find>
-      <find>tattoo1</find>
-      <find>tattoo2</find>
       <find>byeb</find>
       <find>data-toggle</find>
       <find>portfolio</find>
@@ -157,7 +166,6 @@
       <find>spro</find>
       <find>sk-cu</find>
       <find>hero-area</find>
-      <find>media</find>
       <find>zgłoś</find>
       <find>.btn-mai</find>
       <find>btn-main</find>
@@ -165,6 +173,13 @@
       <find>over</find>
       <find>overflo</find>
       <find>medi</find>
+      <find>media</find>
+      <find>myModal</find>
+      <find>modal</find>
+      <find>moda</find>
+      <find>.contact</find>
+      <find>contact</find>
+      <find>black</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -238,8 +253,8 @@
         <option value="$PROJECT_DIR$/config/environments/production.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/Gemfile.lock" />
-        <option value="$PROJECT_DIR$/app/views/artist/show.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/artist.scss" />
+        <option value="$PROJECT_DIR$/app/views/artist/show.html.erb" />
       </list>
     </option>
   </component>
@@ -268,6 +283,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="RailsProjectView" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -291,7 +309,31 @@
               <item name="Otysz" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="stylesheets" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Otysz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Otysz" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="black" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Otysz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Otysz" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="color" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Otysz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Otysz" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="icons" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Otysz" type="b2602c69:ProjectViewProjectNode" />
@@ -325,9 +367,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="RailsProjectView" />
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -337,19 +376,19 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/app/assets/images/black" />
-      <recent name="$PROJECT_DIR$/app/assets/images/color" />
-      <recent name="$PROJECT_DIR$/app/assets/images/flash" />
-      <recent name="$PROJECT_DIR$/app/assets/images/zrzuta" />
-      <recent name="$PROJECT_DIR$/app/assets/javascripts" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/app/assets/images/black" />
       <recent name="$PROJECT_DIR$/app/assets/images/color" />
       <recent name="$PROJECT_DIR$/app/assets/images/backgrounds" />
       <recent name="$PROJECT_DIR$/app/assets/plugins/mcf-fonts/fonts" />
       <recent name="$PROJECT_DIR$/app/assets/fonts" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/assets/images/icons" />
+      <recent name="$PROJECT_DIR$/app/assets/images/black" />
+      <recent name="$PROJECT_DIR$/app/assets/images/color" />
+      <recent name="$PROJECT_DIR$/app/assets/images/flash" />
+      <recent name="$PROJECT_DIR$/app/assets/images/zrzuta" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -491,7 +530,8 @@
       <workItem from="1532341922742" duration="6625000" />
       <workItem from="1532526787936" duration="8729000" />
       <workItem from="1532605959212" duration="21000" />
-      <workItem from="1532605987120" duration="1464000" />
+      <workItem from="1532605987120" duration="2946000" />
+      <workItem from="1532982403452" duration="2923000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1523456731161</created>
@@ -647,16 +687,23 @@
       <option name="project" value="LOCAL" />
       <updated>1532348179745</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="update">
+      <created>1532904072117</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1532904072117</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="103200000" />
+    <option name="totallyTimeSpent" value="107605000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1093" height="900" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21774931" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22872826" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -743,42 +790,14 @@
     <MESSAGE value="gemfile" />
     <MESSAGE value="gallery img object-fit: cover;" />
     <MESSAGE value="gallery img md4" />
-    <option name="LAST_COMMIT_MESSAGE" value="gallery img md4" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/assets/images/backgrounds/noize_background_black.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/images/zrzuta/UNADJUSTEDNONRAW_thumb_3b.jpg" />
-    <entry file="file://$PROJECT_DIR$/app/assets/images/zrzuta/UNADJUSTEDNONRAW_thumb_58.jpg" />
-    <entry file="file://$PROJECT_DIR$/app/assets/images/zrzuta/UNADJUSTEDNONRAW_thumb_61.jpg" />
-    <entry file="file://$PROJECT_DIR$/app/assets/plugins/mixitup/dist/mixitup.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="17" column="23899" lean-forward="false" selection-start-line="17" selection-start-column="23899" selection-end-line="17" selection-end-column="23899" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/noise.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="519">
-          <caret line="72" column="34" lean-forward="false" selection-start-line="72" selection-start-column="34" selection-end-line="72" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
@@ -790,7 +809,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="202">
           <caret line="19" column="27" lean-forward="false" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -969,19 +987,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/artist/show.html.erb">
+    <entry file="file://$PROJECT_DIR$/app/assets/images/backgrounds/bg-0.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/backgrounds/bg-1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/backgrounds/bg-3.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/backgrounds/gray_noise.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/logos/our-client.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/slider/hero-area.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.sass">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="268" column="60" lean-forward="false" selection-start-line="268" selection-start-column="60" selection-end-line="268" selection-end-column="60" />
+        <state relative-caret-position="180">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/artist.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="2300" column="19" lean-forward="false" selection-start-line="2300" selection-start-column="19" selection-end-line="2300" selection-end-column="19" />
+        <state relative-caret-position="202">
+          <caret line="1008" column="0" lean-forward="false" selection-start-line="1008" selection-start-column="0" selection-end-line="1011" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/artist/show.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="363" column="22" lean-forward="false" selection-start-line="363" selection-start-column="22" selection-end-line="363" selection-end-column="22" />
+          <folding>
+            <element signature="n#style#0;n#i#0;n#a#0;n#p#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#1;n#p#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

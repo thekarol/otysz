@@ -145,12 +145,12 @@
                   <h4 class="media-heading">media</h4>
                   <p>
                     <a href="https://www.facebook.com/otysz/" >
-                      <i class="tf-ion-social-facebook" style="font-size: 14px;"></i> facebook
+                      <i class="tf-ion-social-facebook" style="font-size: 14px;     margin-right: 2px;"></i> facebook
 
                     </a>
                   <br>
                     <a href="https://www.instagram.com/otyszecki/" >
-                      <i class="tf-ion-social-instagram" style="font-size: 14px;"></i> instagram
+                      <i class="tf-ion-social-instagram" style="font-size: 14px;     margin-right: 2px;"></i> instagram
                     </a>
                   </p>
                 </div>
@@ -180,7 +180,8 @@
             </div>
 
             <div class="col-md-4 text-center wow fadeInUp" data-wow-duration="500ms" data-wow-delay="500ms">
-                <div class="block  kill-margin-bottom">
+              <a href="#/" data-toggle="modal" data-target="#soonModal" >
+                <div class="block">
                     <div class="icon-box">
                         <i class="art-icon"></i>
                     </div>
@@ -188,11 +189,12 @@
                     <div class="content text-center">
                         <h3>SZTUKA</h3>
                     </div>
-                </div>
+                </div> </a>
             </div>
 
             <div class="col-md-4 text-center wow fadeInUp" data-wow-duration="500ms" data-wow-delay="500ms">
-                <div class="block kill-margin-bottom">
+              <a href="#/" data-toggle="modal" data-target="#soonModal" >
+                <div class="block">
                     <div class="icon-box">
                         <i class="knight-icon"></i>
                     </div>
@@ -200,9 +202,8 @@
                     <div class="content text-center">
                         <h3>DZIAŁALNOŚĆ</h3>
                     </div>
-                </div>
+                </div> </a>
             </div>
-
 
         </div>
     </div>
@@ -220,6 +221,18 @@
         </div>
     </div>
 </section>
+
+<div class="modal fade dark" id="soonModal" role="dialog" >
+  <section class="modal-dialog" style="width:400px">
+
+    <div class="modal-content">
+      <div class="modal-header" style="     color: white; border: 1px solid #CC7722; " >
+       Wkrótce! <button type="button" class="close" data-dismiss="modal">&times;</button>
+      </div>
+    </div>
+  </section>
+</div>
+</div>
 
 
 <div class="modal fade dark" id="myModal" role="dialog">
@@ -314,7 +327,7 @@
 </div>
 
 
-<section class="portfolio bg-one section" id="tattoo">
+<section class="portfolio bg-one section" id="tattoo" style="padding-bottom: 70px;">
   <div class="container">
     <div class="row " >
       <div class="col-lg-12">
@@ -333,8 +346,7 @@
           <button type="button" data-mixitup-control data-filter="all">Wszystko</button>
           <button type="button" data-mixitup-control data-filter=".black">Czerń</button>
           <button type="button" data-mixitup-control data-filter=".color">Kolor</button>
-          <button type="button" data-mixitup-control data-filter=".zrzuta">Zrzuty</button>
-          <button type="button" data-mixitup-control data-filter=".flash">Flashe</button>
+          <button type="button" data-mixitup-control data-filter=".flash">Flash</button>
         </div>
       </div>
     </div>
@@ -345,7 +357,7 @@
             <% icon_base = File.basename(image) %>
             <div class="mix col-md-4 <%=dir%>">
               <div class="portfolio-block image-popup" data-effect="mfp-with-zoom" href="assets/<%=dir%>/<%= icon_base %>" data-lightbox="<%= icon_base %>">
-                <img class="img-responsive" src="assets/<%=dir%>/<%= icon_base %>" alt="">
+                <img class="img-responsive" src="assets/icons/<%=dir%>/<%= icon_base %>" alt="">
                 <div class="caption">
                   <a class="search-icon" >
                     <i class="tf-ion-android-search"></i>
@@ -364,51 +376,51 @@
 </section>
 
 
-<section id="counter" class="parallax-section bg-1 section overly">
-    <div class="container">
-        <div class="row">
+<!--<section id="counter" class="parallax-section bg-1 section overly">-->
+    <!--<div class="container">-->
+        <!--<div class="row">-->
 
 
-            <!--<div class="col-md-3 col-sm-6 col-xs-12 text-center wow fadeInDown" data-wow-duration="500ms">-->
-                <!--<div class="counters-item">-->
-                    <!--<i class="tf-ion-android-happy"></i>-->
-                    <!--<span data-speed="3000" data-to="320">320</span>-->
-                    <!--<h3>Happy Clients</h3>-->
-                <!--</div>-->
-            <!--</div>-->
+            <!--&lt;!&ndash;<div class="col-md-3 col-sm-6 col-xs-12 text-center wow fadeInDown" data-wow-duration="500ms">&ndash;&gt;-->
+                <!--&lt;!&ndash;<div class="counters-item">&ndash;&gt;-->
+                    <!--&lt;!&ndash;<i class="tf-ion-android-happy"></i>&ndash;&gt;-->
+                    <!--&lt;!&ndash;<span data-speed="3000" data-to="320">320</span>&ndash;&gt;-->
+                    <!--&lt;!&ndash;<h3>Happy Clients</h3>&ndash;&gt;-->
+                <!--&lt;!&ndash;</div>&ndash;&gt;-->
+            <!--&lt;!&ndash;</div>&ndash;&gt;-->
 
 
-            <!--<div class="col-md-3 col-sm-6 col-xs-12 text-center wow fadeInDown" data-wow-duration="500ms" data-wow-delay="200ms">-->
-                <!--<div class="counters-item">-->
-                    <!--<i class="tf-ion-archive"></i>-->
-                    <!--<span data-speed="3000" data-to="565">565</span>-->
-                    <!--<h3>Projects completed</h3>-->
-                <!--</div>-->
-            <!--</div>-->
+            <!--&lt;!&ndash;<div class="col-md-3 col-sm-6 col-xs-12 text-center wow fadeInDown" data-wow-duration="500ms" data-wow-delay="200ms">&ndash;&gt;-->
+                <!--&lt;!&ndash;<div class="counters-item">&ndash;&gt;-->
+                    <!--&lt;!&ndash;<i class="tf-ion-archive"></i>&ndash;&gt;-->
+                    <!--&lt;!&ndash;<span data-speed="3000" data-to="565">565</span>&ndash;&gt;-->
+                    <!--&lt;!&ndash;<h3>Projects completed</h3>&ndash;&gt;-->
+                <!--&lt;!&ndash;</div>&ndash;&gt;-->
+            <!--&lt;!&ndash;</div>&ndash;&gt;-->
 
-            <!--<div class="col-md-3 col-sm-6 col-xs-12 text-center wow fadeInDown" data-wow-duration="500ms" data-wow-delay="400ms">-->
-                <!--<div class="counters-item">-->
-                    <!--<i class="tf-ion-thumbsup"></i>-->
-                    <!--<span data-speed="3000" data-to="95">95</span>-->
-                    <!--<h3>Positive feedback</h3>-->
+            <!--&lt;!&ndash;<div class="col-md-3 col-sm-6 col-xs-12 text-center wow fadeInDown" data-wow-duration="500ms" data-wow-delay="400ms">&ndash;&gt;-->
+                <!--&lt;!&ndash;<div class="counters-item">&ndash;&gt;-->
+                    <!--&lt;!&ndash;<i class="tf-ion-thumbsup"></i>&ndash;&gt;-->
+                    <!--&lt;!&ndash;<span data-speed="3000" data-to="95">95</span>&ndash;&gt;-->
+                    <!--&lt;!&ndash;<h3>Positive feedback</h3>&ndash;&gt;-->
 
-                <!--</div>-->
-            <!--</div>-->
+                <!--&lt;!&ndash;</div>&ndash;&gt;-->
+            <!--&lt;!&ndash;</div>&ndash;&gt;-->
 
-            <!--<div class="col-md-3 col-sm-6 col-xs-12 text-center wow fadeInDown" data-wow-duration="500ms" data-wow-delay="600ms">-->
-                <!--<div class="counters-item kill-margin-bottom">-->
-                    <!--<i class="tf-ion-coffee"></i>-->
-                    <!--<span data-speed="3000" data-to="2500">2500</span>-->
-                    <!--<h3>Joints smoked</h3>-->
-                <!--</div>-->
-            <!--</div>-->
+            <!--&lt;!&ndash;<div class="col-md-3 col-sm-6 col-xs-12 text-center wow fadeInDown" data-wow-duration="500ms" data-wow-delay="600ms">&ndash;&gt;-->
+                <!--&lt;!&ndash;<div class="counters-item kill-margin-bottom">&ndash;&gt;-->
+                    <!--&lt;!&ndash;<i class="tf-ion-coffee"></i>&ndash;&gt;-->
+                    <!--&lt;!&ndash;<span data-speed="3000" data-to="2500">2500</span>&ndash;&gt;-->
+                    <!--&lt;!&ndash;<h3>Joints smoked</h3>&ndash;&gt;-->
+                <!--&lt;!&ndash;</div>&ndash;&gt;-->
+            <!--&lt;!&ndash;</div>&ndash;&gt;-->
 
-        </div>
-    </div>
-</section>
+        <!--</div>-->
+    <!--</div>-->
+<!--</section>-->
 
 
-<section id="contact" class="contact bg-one">
+<section id="contact" class="contact bg-one" style=" padding-bottom: 30px;">
     <div class="container">
         <div class="row" style="padding-bottom: 30px">
 
