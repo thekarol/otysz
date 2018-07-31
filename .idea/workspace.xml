@@ -32,8 +32,8 @@
       <file leaf-file-name="show.html.erb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/artist/show.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="438" column="26" lean-forward="true" selection-start-line="438" selection-start-column="26" selection-end-line="438" selection-end-column="26" />
+            <state relative-caret-position="115">
+              <caret line="422" column="60" lean-forward="false" selection-start-line="422" selection-start-column="60" selection-end-line="422" selection-end-column="60" />
               <folding>
                 <element signature="n#style#0;n#i#0;n#a#0;n#p#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#i#0;n#a#1;n#p#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -42,7 +42,6 @@
                 <element signature="n#style#0;n#div#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#1;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -62,7 +61,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>byeb</find>
       <find>data-toggle</find>
       <find>portfolio</find>
       <find>about</find>
@@ -92,6 +90,7 @@
       <find>.contact</find>
       <find>contact</find>
       <find>black</find>
+      <find>kontak</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -443,7 +442,7 @@
       <workItem from="1532526787936" duration="8729000" />
       <workItem from="1532605959212" duration="21000" />
       <workItem from="1532605987120" duration="2946000" />
-      <workItem from="1532982403452" duration="4114000" />
+      <workItem from="1532982403452" duration="4609000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1523456731161</created>
@@ -627,11 +626,18 @@
       <option name="project" value="LOCAL" />
       <updated>1533023629111</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="kontakt details">
+      <created>1533024125964</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1533024125964</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108796000" />
+    <option name="totallyTimeSpent" value="109291000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1093" height="900" extended-state="0" />
@@ -971,8 +977,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/artist/show.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="438" column="26" lean-forward="true" selection-start-line="438" selection-start-column="26" selection-end-line="438" selection-end-column="26" />
+        <state relative-caret-position="115">
+          <caret line="422" column="60" lean-forward="false" selection-start-line="422" selection-start-column="60" selection-end-line="422" selection-end-column="60" />
           <folding>
             <element signature="n#style#0;n#i#0;n#a#0;n#p#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#a#1;n#p#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -981,7 +987,6 @@
             <element signature="n#style#0;n#div#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#1;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
