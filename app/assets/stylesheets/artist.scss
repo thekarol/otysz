@@ -678,9 +678,13 @@ a:focus, a:hover {
   color: rgba(255,255,255,0.7);
 }
 
-.navigation .navigation-menu li a:hover, .navigation .navigation-menu li a:focus {
+.navigation .navigation-menu li a:hover, .navigation .navigation-menu  {
   background: transparent;
   color: #CC7722;
+}
+
+.navigation .navigation-menu li a:hover, .navigation .navigation-menu li a:focus {
+  background: transparent;
 }
 
 @media (min-width: 768px) {
