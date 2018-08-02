@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46824382-dbb0-4e52-9b19-414dd13bf547" name="Default" comment="subtitle">
+    <list default="true" id="46824382-dbb0-4e52-9b19-414dd13bf547" name="Default" comment="fb">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/artist.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/artist.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/views/artist/show.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/artist/show.html.erb" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
@@ -21,21 +20,23 @@
     <session id="-1268219965">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="erb" value="208" />
+          <entry key="erb" value="215" />
           <entry key="scss" value="37" />
-          <entry key="txt" value="17" />
+          <entry key="txt" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="17" />
-          <entry key="RHTML" value="208" />
+          <entry key="PLAIN_TEXT" value="19" />
+          <entry key="RHTML" value="215" />
           <entry key="SCSS" value="37" />
         </counts>
       </usages-collector>
@@ -58,8 +59,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/artist/show.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="161" column="10" lean-forward="true" selection-start-line="161" selection-start-column="10" selection-end-line="161" selection-end-column="10" />
+            <state relative-caret-position="240">
+              <caret line="16" column="72" lean-forward="true" selection-start-line="16" selection-start-column="72" selection-end-line="16" selection-end-column="72" />
             </state>
           </provider>
         </entry>
@@ -67,8 +68,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/artist.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="686" column="26" lean-forward="true" selection-start-line="686" selection-start-column="26" selection-end-line="686" selection-end-column="26" />
+            <state relative-caret-position="10290">
+              <caret line="686" column="26" selection-start-line="686" selection-start-column="26" selection-end-line="686" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -82,8 +83,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>sprockets</find>
-      <find>spro</find>
       <find>sk-cu</find>
       <find>hero-area</find>
       <find>zgłoś</find>
@@ -112,6 +111,8 @@
       <find>active</find>
       <find>fa</find>
       <find>face</find>
+      <find>master</find>
+      <find>TATUAŻ</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -205,7 +206,6 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="130" />
-    <option name="y" value="74" />
     <option name="width" value="1093" />
     <option name="height" value="900" />
   </component>
@@ -430,7 +430,8 @@
       <workItem from="1533119216749" duration="704000" />
       <workItem from="1533191731767" duration="597000" />
       <workItem from="1533193720625" duration="203000" />
-      <workItem from="1533205516728" duration="3518000" />
+      <workItem from="1533205516728" duration="3634000" />
+      <workItem from="1533213687086" duration="285000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1523456731161</created>
@@ -677,21 +678,26 @@
       <option name="project" value="LOCAL" />
       <updated>1533210364595</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="fb">
+      <created>1533212414806</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1533212414806</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="116571000" />
+    <option name="totallyTimeSpent" value="116972000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="130" y="74" width="1093" height="900" extended-state="0" />
+    <frame x="130" y="0" width="1093" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23260248" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23736893" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.01864181" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -702,6 +708,8 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.15070243" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -760,7 +768,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="commit" />
     <MESSAGE value="google_api_key" />
     <MESSAGE value="photo_click" />
     <MESSAGE value="mail + photo_gallery" />
@@ -785,25 +792,26 @@
     <MESSAGE value="literowka" />
     <MESSAGE value="title" />
     <MESSAGE value="subtitle" />
-    <option name="LAST_COMMIT_MESSAGE" value="subtitle" />
+    <MESSAGE value="fb" />
+    <option name="LAST_COMMIT_MESSAGE" value="fb" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.sass">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/app/views/artist/show.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="72" lean-forward="true" selection-start-line="16" selection-start-column="72" selection-end-line="16" selection-end-column="72" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/artist.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="686" column="26" lean-forward="true" selection-start-line="686" selection-start-column="26" selection-end-line="686" selection-end-column="26" />
+        <state relative-caret-position="10290">
+          <caret line="686" column="26" selection-start-line="686" selection-start-column="26" selection-end-line="686" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/artist/show.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="161" column="10" lean-forward="true" selection-start-line="161" selection-start-column="10" selection-end-line="161" selection-end-column="10" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.sass">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
