@@ -234,8 +234,8 @@ This JavaScript function will return -1 if no occurrence have been found.*/
         e.preventDefault();
 
         var error = false;
-        var name = $('#name').val();
-        var email = $('#email').val();
+        var name = $('#appointment-name').val();
+        var email = $('#appointment-email').val();
         var phone_number = $('#phone_number').val();
         var part = $('#part').val();
         var size = $('#size').val();
@@ -244,15 +244,15 @@ This JavaScript function will return -1 if no occurrence have been found.*/
 
         if (name.length == 0) {
             var error = true;
-            $('#name').css("border-color", "#D8000C");
+            $('#appointment-name').css("border-color", "#D8000C");
         } else {
-            $('#name').css("border-color", "#666");
+            $('#appointment-name').css("border-color", "#666");
         }
         if (email.length == 0 || email.indexOf('@') == '-1') {
             var error = true;
-            $('#email').css("border-color", "#D8000C");
+            $('#appointment-email').css("border-color", "#D8000C");
         } else {
-            $('#email').css("border-color", "#666");
+            $('#eappointment-mail').css("border-color", "#666");
         }
         if (project.length == 0) {
             var error = true;
